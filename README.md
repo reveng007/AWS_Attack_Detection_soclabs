@@ -21,7 +21,7 @@
 | 6. | AWS Deletes a trail | Write detection rules based on logs to identify API calls that delete a Trail. | [link](https://github.com/reveng007/AWS_Attack_Detection_soclabs/blob/main/Queries/6.md) |
 | 7. | Disabling Management Event Logging via Event Selector | Write a detection rule to identify calls to the `PutEventSelectors` API. | [link](https://github.com/reveng007/AWS_Attack_Detection_soclabs/blob/main/Queries/7.md) |
 | 8. | CloudTrail Logs Impairment Through S3 Lifecycle Rule | Write a rule to identify log entries where the S3 bucket lifecycle policy is set to 1 day. | [link](https://github.com/reveng007/AWS_Attack_Detection_soclabs/blob/main/Queries/8.md) |
-| 9. | Stop CloudTrail Trail | Detect events where CloudTrail logging has been stopped. | link |
-| 10. | AWS Remove VPC Flow Logs | Detect API calls that delete VPC Flow Log configurations and identify key operational events that may disrupt network traffic monitoring. | link |
-| 11. | Download EC2 Instance User Data | Write detection rules to identify behavior where EC2 instance user data is accessed via APIs, with particular attention to abnormal operations involving multiple user data retrievals within a short time frame. | link |
-| 12. | Enumerate SES Information Activities | Develop detection rules to identify SES enumeration activities | link |
+| 9. | Stop CloudTrail Trail | Detect events where CloudTrail logging has been stopped. | [link](https://github.com/reveng007/AWS_Attack_Simulation_Detection_Lab/blob/main/Queries/9.md) |
+| 10. | AWS Remove VPC Flow Logs | Detect API calls that delete VPC Flow Log configurations and identify key operational events that may disrupt network traffic monitoring. | [link](https://github.com/reveng007/AWS_Attack_Simulation_Detection_Lab/blob/main/Queries/10.md) |
+| 11. | Download EC2 Instance User Data | Write detection rules to identify behavior where EC2 instance user data is accessed via APIs, with particular attention to abnormal operations involving multiple user data retrievals within a short time frame. | [link](https://github.com/reveng007/AWS_Attack_Simulation_Detection_Lab/blob/main/Queries/11.md) |
+| 12. | Enumerate SES Information Activities | Develop detection rules to identify SES enumeration activities | [link](https://github.com/reveng007/AWS_Attack_Simulation_Detection_Lab/blob/main/Queries/12.md) |

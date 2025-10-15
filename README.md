@@ -1,7 +1,7 @@
 # AWS_Attack_Detection_soclabs
 This repo would contain all 17 AWS attack related scenarios present there at https://www.soc-labs.top/en/detection
 
-### _Details of creating queries of each Scenarios would be added soon!_
+### _Details behind the logic of creating queries would be added soon!_
 
 ## Scenarios:
 

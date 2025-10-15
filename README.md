@@ -1,5 +1,9 @@
-# AWS_Attack_Detection_soclabs
-This repo would contain all 17 AWS attack related scenarios present there at https://www.soc-labs.top/en/detection
+# AWS Attack Simulation and Detection Lab:
+
+<img width="1024" height="1024" alt="ChatGPT Image Oct 16, 2025, 12_21_32 AM" src="https://github.com/user-attachments/assets/f54b5f15-3517-4176-b239-12b721f27819" />
+
+### 1. This repo would contain all 17 AWS attack related scenarios present there at https://www.soc-labs.top/en/detection
+### 2. More to Come...
 
 ### _<ins>Details behind the logic of creating queries would be added soon!</ins>_
 

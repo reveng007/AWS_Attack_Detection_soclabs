@@ -5,7 +5,7 @@ This repo would contain all 17 AWS attack related scenarios present there at htt
 
 ## Scenarios:
 
-|  n | Scenario | Objective | Detection Query (Sigma) | 
+| no. | Scenario | Objective | Detection Query (Sigma) | 
 | -- | -------- | -------- | ---- |
 | 1. | AWS Delete DNS query logs | Detect the deletion of Route 53 DNS resolver query logs in AWS environments | [link](https://github.com/reveng007/AWS_Attack_Detection_soclabs/blob/main/Queries/1.md) |
 | 2. | AWS EC2 Windows Instance Password Data Retrieval | Write detection rules to identify password data retrieval activities targeting Windows EC2 instances in an AWS environment, with a focus on `ec2:GetPasswordData` API call events. | [link](https://github.com/reveng007/AWS_Attack_Detection_soclabs/blob/main/Queries/2.md) |

@@ -6,7 +6,9 @@
 
 #### 1. This repo would contain all 17 AWS attack related scenarios present there at [soc-labs](https://www.soc-labs.top/en/detection)
 #### 2. More fine tuning (like adding time based threshold) of the Sigma rules will be done soon too. [link](https://micahbabinski.medium.com/dive-into-sigma-correlation-rules-d5df3f0a12f5)
-#### 3. More to Come...
+#### 3. More to Come: Like 
+  - [Stratus Red Team](https://stratus-red-team.cloud/attack-techniques/list/) by [@datadoghq](https://x.com/datadoghq) Attack Simulation Detection.
+  - [cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat) by [@RhinoSecurity](https://x.com/RhinoSecurity) Attack Simulation Detection.
 
 ### _<ins>Details behind the logic of creating queries would be added soon!</ins>_
 

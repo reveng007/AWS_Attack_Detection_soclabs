@@ -10,6 +10,10 @@
 
 ### _<ins>Details behind the logic of creating queries would be added soon!</ins>_
 
+### NOTE:
+Usage of quotation is really important while creating detection based on AWS API calls. \
+See this example: [no. 17](https://github.com/reveng007/AWS_Attack_Detection_soclabs/blob/main/Queries/17.md)
+
 ## Scenarios:
 
 | no. | Scenario | Objective | Detection Query (Sigma) | 

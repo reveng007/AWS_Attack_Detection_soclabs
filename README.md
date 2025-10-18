@@ -10,6 +10,7 @@
   - [Stratus Red Team](https://stratus-red-team.cloud/attack-techniques/list/) by [@datadoghq](https://x.com/datadoghq) Attack Simulation Detection.
   - [Hacking The Cloud - AWS](https://hackingthe.cloud/aws/avoiding-detection/steal-keys-undetected/) by [@HackingthCloud](https://x.com/HackingthCloud) Attack Simulation Detection.
   - [cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat) by [@RhinoSecurity](https://x.com/RhinoSecurity) Attack Simulation Detection.
+  - [Permiso Security Blogs](https://permiso.io/blog) Attack Simulation Detection.
 
 ### _<ins>Details behind the logic of creating queries would be added soon!</ins>_
 

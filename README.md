@@ -8,6 +8,7 @@
 #### 2. More fine tuning (like adding time based threshold) of the Sigma rules will be done soon too. [link](https://micahbabinski.medium.com/dive-into-sigma-correlation-rules-d5df3f0a12f5)
 #### 3. More to Come: Like 
   - [Stratus Red Team](https://stratus-red-team.cloud/attack-techniques/list/) by [@datadoghq](https://x.com/datadoghq) Attack Simulation Detection.
+  - [Hacking The Cloud - AWS](https://hackingthe.cloud/aws/avoiding-detection/steal-keys-undetected/) by [@HackingthCloud](https://x.com/HackingthCloud) Attack Simulation Detection.
   - [cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat) by [@RhinoSecurity](https://x.com/RhinoSecurity) Attack Simulation Detection.
 
 ### _<ins>Details behind the logic of creating queries would be added soon!</ins>_
@@ -38,4 +39,8 @@ See this example: [no. 17](https://github.com/reveng007/AWS_Attack_Detection_soc
 | 16. | Data Theft via Shared S3 Buckets | Write detection rules to identify suspicious authorization actions targeting S3 bucket policies. | [link](https://github.com/reveng007/AWS_Attack_Simulation_Detection_Lab/blob/main/Queries/16.md) |
 | 17. | AWS IAM User Logged into Console Without MFA | Write a detection rule to identify IAM user login events to the AWS Console that occurred without MFA. | [link](https://github.com/reveng007/AWS_Attack_Simulation_Detection_Lab/blob/main/Queries/17.md) |
 
+## Similar work done previously:
+1. [AWS-Threat-Simulation-and-Detection](https://github.com/sbasu7241/AWS-Threat-Simulation-and-Detection) by [@SoumyadeepBas12](https://x.com/SoumyadeepBas12)
+2. [FalconFriday — Detecting realistic AWS cloud-attacks using Azure Sentinel](https://medium.com/falconforce/falconfriday-detecting-realistic-aws-cloud-attacks-using-azure-sentinel-0xff1c-b62fd45c87dc) by [@FalconForceTeam](https://x.com/FalconForceTeam)
+3. [Permiso Security Blogs](https://permiso.io/blog) by [@permisosecurity](https://x.com/permisosecurity)
 
